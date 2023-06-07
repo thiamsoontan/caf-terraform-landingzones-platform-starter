@@ -1,3 +1,17 @@
+
+01 Jun 2023
+
+caf-terraform-landingzones-platform-starter version: 3.59 (follow azurerm version)
+git: https://github.com/thiamsoontan/caf-terraform-landingzones-platform-starter.git
+
+Github Template: https://github.com/Azure/caf-terraform-landingzones-platform-starter
+
+Upgrade to the latest version of azurerm 3.59 - https://registry.terraform.io/providers/hashicorp/azurerm/latest
+
+Upgrade to the latest version of aztfmod 5.7.0-preview0 - https://github.com/aztfmod/terraform-azurerm-caf.git 
+
+Use local copy of aztfmod /tf/caf/landingzones/aztfmod
+
 Versions:
 
 terraform: Terraform version v1.5.0-rc1
@@ -20,3 +34,4 @@ aztfmod: 5.7.0-preview0
 - Using previously-installed hashicorp/random v3.3.2
 - Using previously-installed hashicorp/tls v3.1.0
 - Using previously-installed aztfmod/azurecaf v1.2.25 >>>>>> https://github.com/aztfmod/terraform-provider-azurecaf
+
