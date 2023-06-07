@@ -27,6 +27,8 @@ aztfmod: 5.7.0-preview0
 - Using previously-installed hashicorp/tls v3.1.0
 - Using previously-installed aztfmod/azurecaf v1.2.25 >>>>>> https://github.com/aztfmod/terraform-provider-azurecaf
 
+
+
 [![Gitter](https://badges.gitter.im/aztfmod/community.svg)](https://gitter.im/aztfmod/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Cloud Adoption Framework landing zones for Terraform - Platform starter template
