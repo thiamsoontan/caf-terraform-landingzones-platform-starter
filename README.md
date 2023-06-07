@@ -1,5 +1,8 @@
-Upgrade to the latest version of azurerm - https://registry.terraform.io/providers/hashicorp/azurerm/latest
-Upgrade to the latest version of aztfmod - https://github.com/aztfmod/terraform-azurerm-caf.git 5.7.0-preview0
+Upgrade to the latest version of azurerm 3.59 - https://registry.terraform.io/providers/hashicorp/azurerm/latest
+
+Upgrade to the latest version of aztfmod 5.7.0-preview0 - https://github.com/aztfmod/terraform-azurerm-caf.git 
+
+Use local copy of aztfmod /tf/caf/landingzones/aztfmod
 
 Versions:
 
