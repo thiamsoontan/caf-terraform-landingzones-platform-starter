@@ -7,7 +7,9 @@ Use local copy of aztfmod /tf/caf/landingzones/aztfmod
 Versions:
 
 terraform: Terraform version v1.5.0-rc1
+
 aztfmod/caf/azurerm: registry.terraform.io/aztfmod/caf/azurerm 5.6.9
+
 landingzones: 5.6.9 
   - git clone https://github.com/Azure/caf-terraform-landingzones.git /tf/caf/landingzones
 azurerm: 3.59
